@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luilemon and my pronouns are he/they.
 - 👀 I’m interested in art,technology, and design. 
 - 🌱 I’m currently learning SQL, HTML,and CSS.
-- 💞️ I’m looking to collaborate on projects related to art/technology/webdevelopment.
+- 💞️ I’m looking to collaborate on projects related to art/technology/web development.
 - 📫 How to reach me message me @luilemon on instagram
 
 <!---
