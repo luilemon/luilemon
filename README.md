@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luilemon
-- ✨ I have a degree in Interpersonal Communication Studies and am interested in art, design, and technology
+- ✨ I'm interested in art, design, and technology
 - 💻 I have experience with Excel and MySQL
-- 🎓 I’m currently learning HTML, CSS, and Javascript
+- 🎓 I have a degree in Interpersonal Communication Studies and am currently developing skills in data analysis(SQL,PowerBi) and web design (HTML,CSS,JS).
 
 <!---
 luilemon/luilemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
